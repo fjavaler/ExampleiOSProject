@@ -35,7 +35,7 @@
 		31D095EF2808BF040048D6E0 = {
 			isa = PBXGroup;
 			children = (
-				31D095FA2808BF040048D6E0 /* Example iOS Project */,
+				31D095FA2808BF040048D6E0 /* ExampleiOSProject */,
 				31D095F92808BF040048D6E0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,7 +48,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		31D095FA2808BF040048D6E0 /* Example iOS Project */ = {
+		31D095FA2808BF040048D6E0 /* ExampleiOSProject */ = {
 			isa = PBXGroup;
 			children = (
 				31D095FB2808BF040048D6E0 /* Example_iOS_ProjectApp.swift */,
@@ -56,7 +56,7 @@
 				31D095FF2808BF090048D6E0 /* Assets.xcassets */,
 				31D096012808BF090048D6E0 /* Preview Content */,
 			);
-			path = "Example iOS Project";
+			path = ExampleiOSProject;
 			sourceTree = "<group>";
 		};
 		31D096012808BF090048D6E0 /* Preview Content */ = {

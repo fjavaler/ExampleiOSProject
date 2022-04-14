@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Example iOS Project
+//  ExampleiOSProject
 //
 //  Created by Frederick Javalera on 4/14/22.
 //
