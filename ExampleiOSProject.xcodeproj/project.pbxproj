@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		31D095FC2808BF040048D6E0 /* Example_iOS_ProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D095FB2808BF040048D6E0 /* Example_iOS_ProjectApp.swift */; };
+		31D095FC2808BF040048D6E0 /* ExampleiOSProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D095FB2808BF040048D6E0 /* ExampleiOSProjectApp.swift */; };
 		31D095FE2808BF040048D6E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D095FD2808BF040048D6E0 /* ContentView.swift */; };
 		31D096002808BF090048D6E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31D095FF2808BF090048D6E0 /* Assets.xcassets */; };
 		31D096032808BF090048D6E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31D096022808BF090048D6E0 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		31D095F82808BF040048D6E0 /* ExampleiOSProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExampleiOSProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		31D095FB2808BF040048D6E0 /* Example_iOS_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_iOS_ProjectApp.swift; sourceTree = "<group>"; };
+		31D095FB2808BF040048D6E0 /* ExampleiOSProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleiOSProjectApp.swift; sourceTree = "<group>"; };
 		31D095FD2808BF040048D6E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31D095FF2808BF090048D6E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31D096022808BF090048D6E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		31D095FA2808BF040048D6E0 /* ExampleiOSProject */ = {
 			isa = PBXGroup;
 			children = (
-				31D095FB2808BF040048D6E0 /* Example_iOS_ProjectApp.swift */,
+				31D095FB2808BF040048D6E0 /* ExampleiOSProjectApp.swift */,
 				31D095FD2808BF040048D6E0 /* ContentView.swift */,
 				31D095FF2808BF090048D6E0 /* Assets.xcassets */,
 				31D096012808BF090048D6E0 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				31D095FE2808BF040048D6E0 /* ContentView.swift in Sources */,
-				31D095FC2808BF040048D6E0 /* Example_iOS_ProjectApp.swift in Sources */,
+				31D095FC2808BF040048D6E0 /* ExampleiOSProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
