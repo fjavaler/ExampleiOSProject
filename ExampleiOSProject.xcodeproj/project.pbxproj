@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		31D095F82808BF040048D6E0 /* Example iOS Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Example iOS Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		31D095F82808BF040048D6E0 /* ExampleiOSProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExampleiOSProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31D095FB2808BF040048D6E0 /* Example_iOS_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_iOS_ProjectApp.swift; sourceTree = "<group>"; };
 		31D095FD2808BF040048D6E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31D095FF2808BF090048D6E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		31D095F92808BF040048D6E0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				31D095F82808BF040048D6E0 /* Example iOS Project.app */,
+				31D095F82808BF040048D6E0 /* ExampleiOSProject.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		31D095F72808BF040048D6E0 /* Example iOS Project */ = {
+		31D095F72808BF040048D6E0 /* ExampleiOSProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 31D096062808BF090048D6E0 /* Build configuration list for PBXNativeTarget "Example iOS Project" */;
+			buildConfigurationList = 31D096062808BF090048D6E0 /* Build configuration list for PBXNativeTarget "ExampleiOSProject" */;
 			buildPhases = (
 				31D095F42808BF040048D6E0 /* Sources */,
 				31D095F52808BF040048D6E0 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Example iOS Project";
+			name = ExampleiOSProject;
 			productName = "Example iOS Project";
-			productReference = 31D095F82808BF040048D6E0 /* Example iOS Project.app */;
+			productReference = 31D095F82808BF040048D6E0 /* ExampleiOSProject.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 31D095F32808BF040048D6E0 /* Build configuration list for PBXProject "Example iOS Project" */;
+			buildConfigurationList = 31D095F32808BF040048D6E0 /* Build configuration list for PBXProject "ExampleiOSProject" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				31D095F72808BF040048D6E0 /* Example iOS Project */,
+				31D095F72808BF040048D6E0 /* ExampleiOSProject */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		31D095F32808BF040048D6E0 /* Build configuration list for PBXProject "Example iOS Project" */ = {
+		31D095F32808BF040048D6E0 /* Build configuration list for PBXProject "ExampleiOSProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				31D096042808BF090048D6E0 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		31D096062808BF090048D6E0 /* Build configuration list for PBXNativeTarget "Example iOS Project" */ = {
+		31D096062808BF090048D6E0 /* Build configuration list for PBXNativeTarget "ExampleiOSProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				31D096072808BF090048D6E0 /* Debug */,
